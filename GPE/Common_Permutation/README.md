@@ -14,12 +14,15 @@ For each set of input, output a line containing x. If several x satisfy the crit
 Sample Input:
 -------------
 pretty
+
 women
 
 walking
+
 down
 
 the
+
 street
  
 Sample Output:
